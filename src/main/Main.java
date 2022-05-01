@@ -70,10 +70,7 @@ public class Main {
 		
 	}
 	
-	public static void delete() {
-		list.delete();
-		list.printC();
-	}
+	
 	
 	
 }
